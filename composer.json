@@ -1,0 +1,13 @@
+{
+    "name": "mathias/quete_twig",
+    "description": "projet quete twig",
+    "authors": [
+        {
+            "name": "GOUEDARD Mathias",
+            "email": "m-gouedard40500@hotmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
